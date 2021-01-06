@@ -39,6 +39,7 @@ namespace MVC_Console.Models
             string [] linhas = File.ReadAllLines(PATH);
 
             foreach(string item in linhas){
+
             
             //Separar atributo pelo :
             string[] atributos = item.Split(';');
