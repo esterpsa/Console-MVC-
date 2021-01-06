@@ -12,8 +12,7 @@ namespace MVC_Console.Models
 
         public float Preco { get; set; }
 
-        private const string PATH 
-        = "Database/Produto.csv";
+        private const string PATH = "Database/Produto.csv";
 
         public Produto()
         {
@@ -56,7 +55,20 @@ namespace MVC_Console.Models
             return produtos;
         }
 
-        
+        public void Inserir(Produto p){
+
+            //Preparamos um array de string para o método AppendAllLines
+            string[] linhas = {PrepararLinhaCSV(p)};
+
+            //Inserimos o array de linha de arquivo CSV
+            File.AppendAllLines(PATH, linhas);
+
+        }
+
+        public string PrepararLinhaCSV(Produto produto){
+            //Preparamos a linha para o formato CSV
+            return $"\n{produto.Codigo};{produto.Nome};{produto.Preco}";
+        }
         
         
         
