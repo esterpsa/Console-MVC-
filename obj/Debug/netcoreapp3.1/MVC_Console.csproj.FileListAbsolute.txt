@@ -11,3 +11,16 @@ C:\Users\ACER\Desktop\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.Cor
 C:\Users\ACER\Desktop\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
 C:\Users\ACER\Desktop\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
 C:\Users\ACER\Desktop\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Console-MVC-\bin\Debug\netcoreapp3.1\MVC_Console.exe
+C:\Users\ACER\Desktop\Console-MVC-\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+C:\Users\ACER\Desktop\Console-MVC-\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+C:\Users\ACER\Desktop\Console-MVC-\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Console-MVC-\bin\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\ACER\Desktop\Console-MVC-\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\ACER\Desktop\Console-MVC-\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
